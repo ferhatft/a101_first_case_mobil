@@ -1,15 +1,23 @@
-# A101 Mobile App Automation Test Suits
+# A101 Web and Mobile Test Automation
 
-## Mobile Setup
+# --> [Web App Test Automation](https://github.com/ferhatft/a101_first_case.git/).
+### Web Setup
+Parallel processing
+```
+mvn test
+```
+### PLATFORM
+```
+Chrome Browser Version --> 105.0.5195.127 (Official Build) (64-bit)
+```
+##   
 
-```
-src/test/java/com/a101/T1_Payment.java
-```
-## PLATFORM
+# --> [Mobile App Test Automation](https://github.com/ferhatft/a101_first_case_mobil/).
+### Mobile Setup
+
+### PLATFORM
 
 ```
 Samsung Galaxy S10 Android - 10.0 - API 29 1440 x 3040 560 
-```
 
-![](https://github.com/unaltugrul/A101TestOtomasyonPracticum/blob/localMaster/26.09.2022_12.59.30_REC.gif)
-# a101_first_case_mobil
+```
